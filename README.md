@@ -1,2 +1,15 @@
-# fire-alarm
+# venues-bottlenecked
 README pitch
+
+Venues are Overbooked, Leaving Indie Bands in a Precarious Position
+
+Mid-Level indie bands, often with large fanbases but little industry support, are caught in the choice between risking hemoraging money by touring now, or having to wait until 2023 to play a live concert for their fans again. With a higher percentage of people getting vaccinated, states mandates have allowed for concerts again, but with the Delta variant spreading, and winter looming, how long will this last? 
+
+This tough decision bands are facing now came to my attention from a close friend of mine, Tommy Siegel of Jukebox the Ghost (JTG). Tommy's band has had a dedicated following since 2006. They've been with indie labels and major labels, they have sold out mid-to-large sized venues all over the country, toured with Ben Folds, been on Lettermen - for all intents and purposes, is a successful band. Successful, but not rich, and needing to work side hustles during the pandemic to survive, since touring is how the band has paid most of its bills. Tommy explained to me that if they tour now, and COVID doesn't shut down venues or cancel their shows, they will break even. But if something does go wrong, they would start hemoragging money; up to 40k. Already, since tour began a week ago, the band has had to cancel two shows because of someone from their crew contracting COVID-19. 
+
+The urgency to tour now is that, if they don't, they won't be able to play shows again until 2023. The reason is that available venues for a band of this size of a fanbase, are completely booked up until then. Already, JTG has had to rebook their tour three times, and this is their last shot for the next 15 months. Since indie bands of this size rely on touring to keep them financially afloat, not touring now would not only risk their relevence to their fans, but also put them at a difficult financial position. 
+
+What I would like to explore with this piece, is the sheer numbers in terms of finances that indie bands are dealing with, as a way of demonstrating to readers the cost to benefit analysis for bands risking it all to tour this fall. I believe this is timely because with winter looming, we are all wondering what is going to happen to live entertainment should we need to go back into lockdown. The risks are not just demonstrated from a financial standpoint, but from a perspective of COVID outbreaks in venues, too. The central question here is this: what risks are we all - performers and audiences alike - willing to take to keep the performing arts alive? In addition to speaking with indie bands, I intend to speak with promoters, ticketing services, booking agents, and fans, to get a well-rounded view on this question.
+
+In undergrad, I started a club on campus to promote the indie music scene by throwing a concert series. Many of the bands, promoters, and booking agents I've come to know durin that time, I'm still in touch with to this day. I've also been working as an event and concert photographer, and event journalist covering festivals such as <a href="https://www.everfest.com/magazine/6-reasons-you-can-afford-sundance-film-festival">Sundance</a>, Desert Hearts, and <a href="https://www.everfest.com/magazine/people-of-art-basel-miami-2016">Art Basel Miami</a>, since 2014. 
+
